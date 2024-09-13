@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Eric Wentz"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+
+editor: visual
+
