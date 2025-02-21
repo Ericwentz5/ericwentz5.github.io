@@ -1,5 +1,5 @@
 ---
-title: "Easymoneywentz"
+title: "Eric Wentz"
 about:
   id: intro-heading
   template: trestles
@@ -13,10 +13,21 @@ about:
 
 **About Me**
 
-My name is Eric Wentz and I am a junior at Macalester College. Majoring in Data Science, I have a passion for data driven sports analytics. I am also on the Varsity Men's basketball team and spend most of my free time practicing the sport. Originally, I am from Minot, North Dakota. Minot is a small town of roughy 40,000 people in North Central North Dakota. I have four older siblings who I wish I got to see more often and I also have a ton of pets. Back home I have 5 cats and 3 dogs.\
+I’m Eric Wentz, a junior at Macalester College, majoring in Data Science with a minor in Computer Science. I have a deep passion for sports analytics, combining my experience as a collegiate basketball player with my technical expertise in data science, machine learning, and predictive modeling.
+
+I have worked on NBA, NFL, and MLB data projects, developing statistical models, visualizations, and AI-driven insights. My experience includes internships with ShotCaller, where I engineered data pipelines and built interactive dashboards, and SponsorUnited, where I tracked sponsorship activations at live sporting events. Additionally, I gained event operations experience with the Minnesota Vikings, managing logistics for gamedays, training camp, and premium events.
+
+As a team captain for Macalester Men’s Basketball and a former practice player for the WNBA’s Minnesota Lynx, I bring a unique perspective to sports analytics—understanding both the data and the game itself. My goal is to leverage data-driven insights to enhance athlete performance, team strategy, and fan engagement in professional sports.
 
 **Education**
 
-Minot High School 2018-2022
+Macalester College, St. Paul, MN (2022 – 2026)
 
-Macalester College 2022-2026 Major in Data Science
+Major: Data Science | Minor: Computer Science
+GPA: 3.71/4.00
+Relevant Coursework: Machine Learning, Data Science, Statistical Modeling, Linear Algebra, Programming (Python, R, Java), Git/GitHub
+Leadership: Team Captain – Macalester Men’s Basketball, SAAC Board Member (1 of 7 selected from 400+ athletes)
+New York University – Tisch Institute for Global Sport
+
+Completed coursework in Sports Management, Data Analytics, Marketing, and Technology in Sports
+Gained insights into the business and data-driven aspects of professional sports
