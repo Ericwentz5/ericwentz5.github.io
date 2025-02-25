@@ -2,7 +2,12 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/MLBattendance/indexMLB.html"
+      "/projects/NBA_3pt_paper/NBA_3pt_index.html",
+      "/projects/QB/indexQB.html",
+      "/projects/Redbulls/RedBullsindex.html",
+      "/projects/NBA_shiny/NBAindex.html",
+      "/projects/MLBattendance/indexMLB.html",
+      "/projects/MIAC_spending/MiacIndex.html"
     ]
   }
 ]

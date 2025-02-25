@@ -1,0 +1,58 @@
+---
+title: "A Decade of Athletic Spending: Trends, Disparities, and Impact on Success"
+description: "An analysis of university athletic spending trends, disparities, and their impact on athletic success."
+image: featured.png
+image-alt: "Athletic Spending Analysis"
+categories:
+  - Data Science
+  - Sports Analytics
+  - University Athletics
+  - Financial Analysis
+about:
+  template: solana
+  image: featured.png
+---
+
+This project presents an **in-depth analysis of university athletic spending**, exploring trends, disparities, and potential correlations with team success over the past decade. The study leverages publicly available data to evaluate the financial landscape of collegiate sports.
+
+### **📊 Project Highlights**
+- **Data Sources**:  
+  - U.S. Department of Education **University and College Athletic Expenditure** Reports  
+  - Ethics in Athletic Disclosure Act  
+  - Federally funded co-ed schools  
+- **Key Areas of Focus**:
+  - Budget trends across institutions
+  - Athletic spending patterns
+  - Comparative analysis of basketball teams
+  - The relationship between spending and success  
+- **Tools Used**: `R`, `ggplot2`, `dplyr`, `Shiny`, `Data Visualization`
+
+---
+
+### **🔹 Key Findings & Methodology**
+#### **📈 University Athletic Spending Trends**
+- Analysis of overall **school budget changes** over time.
+- **Athletic department budgets** compared across institutions.
+- Identifying disparities in spending between schools.
+
+#### **🏀 Basketball Team Comparison**
+- Comparative study of **athletic investment** in basketball programs.
+- Evaluating **participant spending** and its influence on team performance.
+- Measuring the financial gap between successful and struggling programs.
+
+#### **📉 Impact on Success**
+- Investigating **whether increased spending correlates with better athletic performance**.
+- Addressing **limitations** in data:
+  - Excludes **donations** and external funding sources.
+  - Does **not adjust for inflation**.
+  - Finding **little correlation** between spending and success.
+
+---
+
+
+
+### **🚀 Explore the Insights**
+Interested in the financial trends shaping collegiate athletics?  
+[Read the Full Report Here](https://docs.google.com/presentation/d/1Z3rAk4N331Xk5eh0flVxz9j11jfUv_HNU2Y62Fgu3qo/edit?usp=sharing)
+
+---

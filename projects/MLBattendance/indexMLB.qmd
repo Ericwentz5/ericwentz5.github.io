@@ -6,6 +6,8 @@ image-alt: "MLB attendance data visualization"
 categories:
   - Sports Analytics
   - Data Science
+  - Baseball
+  - MLB
 about:
   template: solana
   image: featured.png
@@ -18,4 +20,4 @@ This project analyzes **MLB attendance trends** using R, Shiny, and data from th
 - **Key Insights**: Trends in fan attendance, team popularity, seasonal effects.
 - **Tools Used**: `ggplot2`, `shiny`, `tidyverse`, `dplyr`.
 
-Check out the interactive Shiny APP Here! (https://playshotcaller.shinyapps.io/mlbattendapp/)
+🚀 **[Check out the interactive Shiny App here!](https://playshotcaller.shinyapps.io/mlbattendapp/)**  

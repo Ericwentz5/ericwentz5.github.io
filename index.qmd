@@ -3,7 +3,7 @@ title: "Eric Wentz"
 about:
   id: intro-heading
   template: trestles
-  image: images/Test.jpg
+  image: images/Headshot.jpeg
   links:
     - icon: twitter
       href: https://twitter.com/Eric_wentz1
@@ -11,7 +11,10 @@ about:
       href: https://github.com/Ericwentz5
 ---
 
+
 **About Me**
+
+
 
 I’m Eric Wentz, a junior at Macalester College, majoring in Data Science with a minor in Computer Science. I have a deep passion for sports analytics, combining my experience as a collegiate basketball player with my technical expertise in data science, machine learning, and predictive modeling.
 

@@ -1,0 +1,63 @@
+
+---
+title: The Evolution of the Three-Point Shot in the NBA
+description: "A statistical analysis of how three-pointers have influenced player salaries, team wins, and positional roles over the past decade."
+image: featured.png
+image-alt: "NBA Three-Point Shot Analysis"
+categories:
+  - Sports Analytics
+  - Data Science
+  - NBA
+  - Statistical Modeling
+about:
+  template: solana
+  image: featured.png
+---
+
+This project presents an **in-depth statistical analysis** of how the **three-point shot** has evolved in the NBA, influencing player salaries, positional play, and team success over time.
+
+### **Project Highlights**
+- **Data Sources**: NBA player statistics and salaries from Kaggle and GitHub.
+- **Key Research Areas**:
+  - How **three-point attempts** have changed across different player positions.
+  - The relationship between **three-point attempts and player salaries**.
+  - The correlation between **three-point shooting efficiency and team wins**.
+- **Tools Used**: `R`, `ggplot2`, `dplyr`, `regression modeling`.
+
+---
+
+### **🔹 Research Questions & Methodology**
+#### **🏀 Evolution of Three-Point Attempts by Position**
+- Compared three-point attempts for **guards, forwards, and centers** between 2010 and 2020.
+- Results indicate a **significant increase** in three-point attempts across all positions.
+
+#### **💰 Impact on Player Salaries**
+- **2010 vs. 2020**: Examined the top 50 highest-paid players in each year.
+- Regression analysis shows that **three-point attempts were undervalued in 2010** but had a **strong positive correlation with salary in 2020**.
+
+#### **📊 Correlation Between Three-Point Shooting & Team Success**
+- Analyzed whether **paying for elite three-point shooters leads to more wins**.
+- Found a positive correlation but **suggests diminishing returns**—teams should balance spending across multiple skill sets.
+
+---
+
+### **📈 Key Findings**
+- The NBA has shifted toward a **three-point-heavy** game.
+- **Higher-paid players now take more threes**, unlike in 2010.
+- While **three-point efficiency contributes to team success**, teams must still diversify their strategies.
+
+---
+
+### **📜 Full Paper & Analysis**
+Check out the complete study:  
+📄 [Read the Full Paper](https://docs.google.com/document/d/19qyuQYEzMUCEeWar_zp9cbjhlZNAs7abOrQ5DdPABw4/edit?usp=sharing)
+
+---
+
+### **🚀 Future Research Directions**
+- Should the NBA introduce a **four-point line**?
+- Are **three-pointers overvalued**, or should teams invest even more in shooters?
+- How has **team strategy evolved** beyond the three-pointer?
+
+---
+

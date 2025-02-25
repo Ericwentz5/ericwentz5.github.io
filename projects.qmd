@@ -12,4 +12,3 @@ title-block-banner: true
 comments: false
 ---
 
-We'll add stuff here eventually.
