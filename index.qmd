@@ -11,12 +11,9 @@ about:
       href: https://github.com/Ericwentz5
 ---
 
-
 **About Me**
 
-
-
-I’m Eric Wentz, a junior at Macalester College, majoring in Data Science with a minor in Computer Science. I have a deep passion for sports analytics, combining my experience as a collegiate basketball player with my technical expertise in data science, machine learning, and predictive modeling.
+I’m Eric Wentz, a Senior at Macalester College, majoring in Data Science with a minor in Computer Science. I have a deep passion for sports analytics, combining my experience as a collegiate basketball player with my technical expertise in data science, machine learning, and predictive modeling. Furthermore, I am now working on a computer vision model to assist with basketball coaching.
 
 I have worked on NBA, NFL, and MLB data projects, developing statistical models, visualizations, and AI-driven insights. My experience includes internships with ShotCaller, where I engineered data pipelines and built interactive dashboards, and SponsorUnited, where I tracked sponsorship activations at live sporting events. Additionally, I gained event operations experience with the Minnesota Vikings, managing logistics for gamedays, training camp, and premium events.
 
@@ -26,11 +23,6 @@ As a team captain for Macalester Men’s Basketball and a former practice player
 
 Macalester College, St. Paul, MN (2022 – 2026)
 
-Major: Data Science | Minor: Computer Science
-GPA: 3.71/4.00
-Relevant Coursework: Machine Learning, Data Science, Statistical Modeling, Linear Algebra, Programming (Python, R, Java), Git/GitHub
-Leadership: Team Captain – Macalester Men’s Basketball, SAAC Board Member (1 of 7 selected from 400+ athletes)
-New York University – Tisch Institute for Global Sport
+Major: Data Science \| Minor: Computer Science GPA: 3.71/4.00 Relevant Coursework: Intro to Artificial Intelligence, Correlated Data, Probability, Machine Learning, Data Science, Statistical Modeling, Linear Algebra, Programming (Python, R, Java), Git/GitHub Leadership: Team Captain – Macalester Men’s Basketball, SAAC Board Member (1 of 7 selected from 400+ athletes) New York University – Tisch Institute for Global Sport
 
-Completed coursework in Sports Management, Data Analytics, Marketing, and Technology in Sports
-Gained insights into the business and data-driven aspects of professional sports
+Completed coursework in Sports Management, Data Analytics, Marketing, and Technology in Sports Gained insights into the business and data-driven aspects of professional sports
